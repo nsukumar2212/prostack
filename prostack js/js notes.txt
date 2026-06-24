@@ -1,0 +1,113 @@
+JAVASCRIPT:
+
+day 1
+=========================================
+
+index.html
+
+<html>
+    <head>
+        <script src="./test.js" type="text/javascript"></script>
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+js intro
+js st,identifier rules,keywords
+data types, operators
+control flow
+1.conditional
+2.iterative
+functions
+
+
+completed
+
+js intro
+
+data types(8)===============two types
+
+1.primitive dt
+non primitive dt
+
+
+tmrw:
+
+operators & control flow 
+
+
+====================================================
+
+FUNCTIONS IN JS:
+
+group of statements for specific functionality
+
+code reusability
+
+function keywords
+business logic and returns result
+
+1) function wish(){
+console.log("GM")
+console.log("GA")
+console.log("GN")
+}
+
+wish()
+wish()
+wish()
+
+we can invoke n numbver of times 
+
+
+2)
+
+function add(a,b,c){
+console.log(a+b+c)
+}
+add(10,20,30) //60
+add(1,2,3) //6
+add(1,2) //NAN
+
+3)
+
+function add(a,b,c=1){
+console log(a+b+c)
+}
+
+add(10,20,30) //60
+add(10,20)  //31
+add(1,2,3)  //6
+add("Rahul","Gandhi") //RahulGandhi1
+
+4)
+function add(a,b){
+return a+b+1;
+}
+let r1=add(10,20,30)
+let r2=add(1,2)
+
+console.log(r1) //31
+console.log(r2) //4
+
+5)
+function add(a,b){
+return a+b+1;
+console.log("peddi")
+}
+let r1=add(10,20,30)
+let r2=add(1,2)
+
+console.log(r1) //31
+console.log(r2) //4
+
+output is 31 and 4 bcoz after return anything you wrote it will not show you 
+
+if we write console before return it also prints the op is peddi and 31
+
+1.how to verify given array is empty or notfunction add(a,b){
+2.how to verify given object is empty or notfunction add(a,b){
+3.how to print object in browser
+

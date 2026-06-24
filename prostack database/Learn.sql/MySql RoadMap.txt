@@ -1,0 +1,117 @@
+Phase 1:
+ SQL Fundamentals (Beginner)
+ ========================================================
+Database Basics
+Database, DBMS, RDBMS
+Tables, Rows, Columns
+Primary Key
+Foreign Key
+SQL Basics
+CREATE DATABASE
+CREATE TABLE
+Data Types
+Constraints
+PRIMARY KEY
+FOREIGN KEY
+NOT NULL
+UNIQUE
+CHECK
+DEFAULT
+CRUD Operations
+INSERT
+SELECT
+UPDATE
+DELETE
+Filtering & Sorting
+WHERE
+AND, OR, NOT
+IN
+BETWEEN
+LIKE
+ORDER BY
+LIMIT
+
+
+Phase 2: Intermediate SQL
+
+========================================================
+Functions
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
+Grouping
+GROUP BY
+HAVING
+Joins
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN (Concept)
+SELF JOIN
+CROSS JOIN
+Set Operators
+UNION
+UNION ALL
+Date & String Functions
+CONCAT()
+LENGTH()
+UPPER()
+LOWER()
+SUBSTRING()
+NOW()
+CURDATE()
+
+
+Phase 3: Advanced SQL
+
+=======================================================
+
+Subqueries
+Single Row Subquery
+Multiple Row Subquery
+Correlated Subquery
+Views
+CREATE VIEW
+DROP VIEW
+Common Table Expressions (CTEs)
+WITH Clause
+Recursive CTE (Basics)
+Window Functions
+ROW_NUMBER()
+RANK()
+DENSE_RANK()
+LEAD()
+LAG()
+Indexes
+CREATE INDEX
+DROP INDEX
+Stored Procedures
+CREATE PROCEDURE
+Parameters
+Triggers
+BEFORE Trigger
+AFTER Trigger
+Transactions
+COMMIT
+ROLLBACK
+SAVEPOINT
+ACID Properties
+Database Design
+One-to-One
+One-to-Many
+Many-to-Many
+Normalization
+1NF
+2NF
+3NF
+BCNF
+
+=================================================
+
+BEST PLAYLIST FOR MYSQL IN YOUTUBE
+
+For learning MySQL/SQL in Telugu as a fresher, I recommend:
+
+SQL Full Course in Telugu | Free Notes, Practice Questions & Interview Questions – Dodagatta Nihar

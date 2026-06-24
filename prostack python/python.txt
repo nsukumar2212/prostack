@@ -1,0 +1,51 @@
+
+
+<class int>
+<class float>
+<class string>
+<class boolean>
+<class complex>
+<class list>
+<class tuple>
+<class dict>
+<class object>
+<class >
+
+
+
+
+
+
+
+
+=============================
+#DAY2 DATATYPES
+
+ out of 14 4 are mutable and 10 are immutable
+ 
+ 4 are-list,dict,bytearray,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =======================
+ 
+ python expression:
+ 
+ logical operator        : and or not
+ relational operator 	 : <	>
+						   <= 	>=
+equlity operator         : == !=
+
+membership operator 	 : in,notin
+identity operator 		 : is,isnot
+=========
+identifier rule
+data types
+operators
+control flow-conditional,iterative
+py func
+errors

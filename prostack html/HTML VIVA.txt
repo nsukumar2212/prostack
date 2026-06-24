@@ -1,0 +1,128 @@
+Core Concepts (VERY IMPORTANT):
+
+What is HTML?
+Difference between HTML and HTML5
+What is semantic HTML?
+Difference between block and inline elements
+Difference between id and class
+Difference between <div> and <span>
+What are semantic tags?
+What is DOM?
+What is responsive design?
+What are meta tags?
+What is viewport meta tag?
+Difference between inline, internal, and external CSS
+
+
+Frequently Asked Tag-Based Questions:
+
+Difference between <b> and <strong>
+Difference between <i> and <em>
+Difference between <section> and <div>
+Difference between <article> and <section>
+What is the use of <nav>
+What is the use of <aside>
+Why use semantic tags?
+
+
+Forms (VERY IMPORTANT):
+
+Difference between GET and POST
+What is form validation?
+Difference between required, readonly, and disabled
+Types of input fields
+Difference between radio and checkbox
+What is label tag and why use it?
+What is placeholder?
+Difference between name and value attribute
+
+
+Tables:
+
+What is rowspan?
+What is colspan?
+Difference between <thead>, <tbody>, and <tfoot>
+
+
+Media & APIs:
+Difference between SVG and Canvas
+Audio and Video tags
+What is iframe?
+What is localStorage?
+Difference between localStorage and sessionStorage
+Browser & Performance Concepts
+
+
+How browser renders HTML page:
+
+Difference between async and defer
+What is SEO in HTML?
+What is accessibility?
+What are ARIA attributes?
+What is lazy loading?
+
+
+Frequently Asked Practical Questions:
+
+Create a login form
+Create a registration form
+Create a navbar
+Create a table
+Build a responsive webpage structure
+Create a simple portfolio page
+Build a dropdown menu
+Create a contact form
+
+
+MOST IMPORTANT Topics for Interviews:
+
+Focus maximum on:
+
+Semantic HTML
+Forms & Validation
+Block vs Inline
+id vs class
+div vs span
+GET vs POST
+Accessibility
+SEO basics
+Responsive design basics
+localStorage vs sessionStorage
+async vs defer
+Media tags
+Tables
+Input types
+Meta tags
+
+
+Top 10 MOST ASKED Questions:
+What is semantic HTML?
+Difference between id and class
+Difference between div and span
+Difference between block and inline elements
+GET vs POST
+What is viewport meta tag?
+Difference between localStorage and sessionStorage
+What is accessibility?
+Difference between async and defer
+Difference between HTML and HTML5
+
+
+Focus These First:
+
+What is HTML5?
+Semantic HTML
+div vs span
+id vs class
+Block vs Inline elements
+GET vs POST
+Forms & validation
+localStorage vs sessionStorage
+async vs defer
+Meta viewport tag
+Accessibility
+section vs article
+Audio/video tags
+DOM basics
+Responsive design basics
+

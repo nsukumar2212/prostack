@@ -1,0 +1,6 @@
+fp1=open('data.txt','r')
+fp2=open('user.txt','w')
+data=fp1.read()
+fp2.write(data)
+fp1.close()
+fp2.close() 

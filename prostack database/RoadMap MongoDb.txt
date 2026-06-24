@@ -1,0 +1,108 @@
+Phase 1: Core MongoDB (Must Know)
+
+==============================================
+
+Basics
+What is MongoDB?
+NoSQL vs SQL
+Database
+Collection
+Document
+BSON
+CRUD Operations
+insertOne()
+insertMany()
+find()
+findOne()
+updateOne()
+updateMany()
+deleteOne()
+deleteMany()
+Query Operators
+$eq
+$ne
+$gt
+$gte
+$lt
+$lte
+$and
+$or
+$in
+$nin
+Projection
+Include Fields
+Exclude Fields
+Sorting & Pagination
+sort()
+limit()
+skip()
+Update Operators
+$set
+$unset
+$inc
+$rename
+Arrays & Nested Documents
+Arrays
+Embedded Documents
+Dot Notation
+$push
+$pull
+$addToSet
+
+
+Phase 2: Interview-Level MongoDB
+
+===============================================
+
+Aggregation Framework
+$match
+$project
+$group
+$sort
+$limit
+$count
+Relationships
+Embedding
+Referencing
+$lookup
+MongoDB Join
+Joining Collections
+Indexing
+What is an Index?
+Why use an Index?
+createIndex()
+Data Modeling
+One-to-One
+One-to-Many
+Many-to-Many
+Basic Performance Concepts
+Collection Scan vs Index Scan
+Why Queries Become Slow
+
+=====================================================
+
+
+Priority Order
+=============================
+Phase 1
+├─ MongoDB Basics
+├─ CRUD Operations
+├─ Query Operators
+├─ Projection
+├─ sort(), limit(), skip()
+├─ Update Operators
+└─ Arrays & Nested Documents
+
+Phase 2
+├─ Aggregation ($match, $group, $project)
+├─ Relationships
+├─ $lookup
+├─ Indexing Basics
+└─ Data Modeling
+
+
+BEST PLAYLIST FOR MONGODB IN YOUTUBE
+
+For a fresher, I recommend:
+
+MongoDB in Telugu Playlist – Vamsi Bhavani

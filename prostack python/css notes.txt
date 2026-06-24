@@ -1,0 +1,9 @@
+CSS - Cascadding style sheet
+
+cascading-rendering,bringing
+
+we can apply css in 3 types
+
+1.inline css - using style attribute no reusability
+2.internal css- using<style> tag -reusabiylity use but for page level
+3.external css-<link tag> -reusability yes for application level

@@ -1,0 +1,5 @@
+fp1=open('user.text','r')
+fp2=open('emp.text','w')
+data=fp1.read()
+fp2.write(data)
+print("new file created")
