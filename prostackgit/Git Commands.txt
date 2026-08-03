@@ -1,0 +1,7 @@
+1.Go To The Folder and open with cmd
+2.git status
+3.git add .
+4.git add "prostack python"
+5.git status
+6.git commit -m "Updated python"
+git push origin main
