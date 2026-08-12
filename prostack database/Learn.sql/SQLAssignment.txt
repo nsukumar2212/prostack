@@ -1,3 +1,9 @@
+1.Write a query to fetch people whose last name is same.
+
+
+
+
+
 2.Write a query to fetch whose age is grater then 70.
 
  select *from employee
@@ -86,11 +92,11 @@ AND city LIKE 'B%';
 10..Write a query to find person with highest salary in 'New Delhi'.	
 
  SELECT *FROM employee
-    -> WHERE esal = (
-    ->     SELECT MAX(esal)
-    ->     FROM employee
-    ->  where city = 'New Delhi'
-    ->  );
+    WHERE esal = (
+        SELECT MAX(esal)
+        FROM employee
+     where city = 'New Delhi'
+     );
 +-----+-------+----------+-----------+-------+------+
 | eid | fname | lname    | city      | esal  | age  |
 +-----+-------+----------+-----------+-------+------+
@@ -261,6 +267,27 @@ SELECT *from employee
 | 115 | Mohan | Manchu    | Hyderabad |  NULL |   70 |
 +-----+-------+-----------+-----------+-------+------+
 
+23.Write a query to group by people with their age.
+
+ SELECT age, COUNT(*) AS total
+    -> FROM employee
+    -> GROUP BY age;
++------+-------+
+| age  | total |
++------+-------+
+|   52 |     1 |
+|   75 |     1 |
+|   45 |     1 |
+|   69 |     1 |
+|   65 |     1 |
+|   47 |     1 |
+|   40 |     3 |
+|   31 |     1 |
+|   27 |     1 |
+|   78 |     1 |
+|   35 |     1 |
+|   70 |     1 |
++------+-------+
 
 24.Write a query to insert respective data-(id,fname,age) with values-(109,'Ram',28).
 

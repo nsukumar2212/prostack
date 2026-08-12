@@ -83,6 +83,14 @@ CREATE TABLE employees(
 
 DESC employees
 
+insert into customers
+    -> values
+    -> (101,"rg",4500.45,"Male",52),
+    -> (102,"sg","FeMale",80),
+    -> (103,"pg","FeMale",42),
+    -> (104,"modi","Male",78),
+    -> (105,"sukumaR","Male",24);
+
 mysql CONSTRAINTS
 
 1.UNIQUE
@@ -265,8 +273,13 @@ WHERE age>=70;
 
 3.Write a query to to fetch people with same city.
 
-SELECT *from employee
-WHERE city=
+SELECT *
+FROM employee
+WHERE city IN(
+     SELECT city
+	 FROM employee
+	 GROUP BY city
+	 HAVING COUNT(*) > 1
 
 4.Write a query to to fetch whose name ends with 'h'.
 
@@ -283,7 +296,7 @@ WHERE lname LIKE "%h";
 5.Write a query to count person whose last name ends with 'i'.
 
 
-select count(*) from employee;
+select count(*) from employee
 where lname LIKE "%i";
 
 6.Write a query to find person with highest salary.
@@ -349,7 +362,7 @@ FROM employee
 WHERE esal BETWEEN 20000 AND 40000;
 
 
-15. Write a query to find person whose first name third character is 'j'.
+14. Write a query to find person whose first name third character is 'j'.
 
 SELECT *from employee
 where fname LIKE '__j%';
@@ -377,7 +390,7 @@ where esal=(select MIN(esal) from employee);
  
  #2
  
- SELECT *from employee;
+SELECT *from employee;
        esal + 10000 AS new_salary
 FROM employee
 WHERE esal = (
@@ -399,7 +412,7 @@ ORDER BY esal DESC;
 21.Write a query to show person whose name's last third word is 'j' and salary is more then 30000
 
 SELECT *from employee
-where lname LIKE '%j__';
+where lname LIKE '%j__'
 AND esal > 30000;
 
 22.Write a query to show all people who live in 'Bangalore' and 'Wayanad'.
@@ -436,6 +449,20 @@ WHERE city is NOT NULL;
 
 delete FROM employee
 WHERE id= 109;
+
+29. Group employees by age and show first three rows
+
+SELECT age, COUNT(*) AS total
+FROM employee
+GROUP BY age
+LIMIT 3;
+
+30. Group employees of 'New Delhi' by their last name
+
+SELECT lname, COUNT(*) AS total
+FROM employee
+WHERE city = 'New Delhi'
+GROUP BY lname;
 
 =============================================================================
 
