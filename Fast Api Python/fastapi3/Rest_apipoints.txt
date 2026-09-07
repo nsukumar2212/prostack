@@ -1,0 +1,40 @@
+Rest API - End Points
+End Point -1
+---------------------------------
+Usage : Application Root Request
+Rest API URL: http:127.0.0.1:8000/
+Method Type:GET
+Required Fields:None
+Access Type:Public
+
+End Point -2
+---------------------------------
+Usage : create new user
+Rest API URL: http:127.0.0.1:8000/create
+Method Type:POST
+Required Fields:uid,uname,loc
+Access Type:Public
+
+End Point -3
+---------------------------------
+Usage : fetch all users
+Rest API URL: http:127.0.0.1:8000/read
+Method Type:GET
+Required Fields:None
+Access Type:Public
+
+End Point -4
+---------------------------------
+Usage : Update user
+Rest API URL: http:127.0.0.1:8000/update
+Method Type:PUT
+Required Fields:uid,uname,loc 
+Access Type:Public
+
+End Point -5
+---------------------------------
+Usage : Delete user
+Rest API URL: http:127.0.0.1:8000/delete
+Method Type:DELETE
+Required Fields:None
+Access Type:Public
