@@ -1,8 +1,21 @@
 from fastapi import FastAPI
-
 app=FastAPI()
+from router.user_router import router as user_router
+from router.product_router import router as product_router
 
-@app.get("/")
-
+'''
+Rest API - End Point: 1
+--------------------------
+Usage: Application Root Request 
+Rest API URL: http://127.0.0.1:8000/
+Method Type:GET 
+Requried Fields : None 
+Access Type:Public 
+'''
+@app.get("/",description='Application Root')
 def home_page():
-    return {"message": "Welcome to the Home Page!"}
+    return {'msg':'Application Root Request'}
+
+
+app.include_router(user_router)
+app.include_router(product_router)
