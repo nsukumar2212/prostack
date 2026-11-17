@@ -1,0 +1,183 @@
+
+HOSPITALISATION AND HEALTHCARE COSTS IN INDIA
+Source: Disease and Age Pattern of Hospitalisation and Associated Costs in India: 1995–2014
+Authors: Anshul Kastor and Sanjay K. Mohanty
+Published in: BMJ Open, 2018
+
+1. INTRODUCTION
+
+Hospitalisation is an important part of healthcare because it involves medical treatment, hospital stays and expenses incurred by patients and their families. Hospitalisation patterns differ according to age, disease type, socioeconomic conditions and access to healthcare.
+
+This research paper examines changes in hospitalisation patterns and associated costs in India between 1995 and 2014. It uses nationally representative data from the National Sample Survey to understand how hospitalisation rates, disease patterns and out-of-pocket healthcare expenses changed over time.
+
+The study focuses on communicable diseases, non-communicable diseases, injuries and other diseases. It also compares hospitalisation patterns across different age groups and examines differences between public and private healthcare facilities.
+
+2. OBJECTIVES OF THE STUDY
+
+The primary objective is to examine trends in hospitalisation and associated costs in India from 1995 to 2014.
+
+The study also aims to understand how hospitalisation varies by age, identify changes in specific disease categories, compare healthcare expenses over time, and examine the relationship between hospitalisation and factors such as age, sex, residence, education and household economic status.
+
+3. DATA SOURCES AND METHODOLOGY
+
+The researchers used data from the 52nd and 71st rounds of the National Sample Survey. The first dataset relates to 1995–1996, while the second relates to 2014.
+
+The 1995 survey covered 120,942 households, while the 2014 survey covered 65,932 households. The study used descriptive statistics, logistic regression and decomposition analysis.
+
+Hospitalisation was defined as an overnight hospital stay. The researchers examined hospitalisation during the preceding 365 days. The cost estimates included direct medical expenses, such as medicines, surgery, diagnostic tests, doctors' fees and accommodation, along with indirect expenses such as transportation.
+
+The costs presented in the paper were adjusted to 2014 prices and expressed in US dollars. These historical figures should not be interpreted as present-day hospital prices.
+
+4. CLASSIFICATION OF DISEASES
+
+The study classified diseases into four broad categories.
+
+Communicable diseases include fever, diarrhoea, tuberculosis, respiratory diseases, jaundice and other infections.
+
+Non-communicable diseases include cancer, diabetes, heart diseases, hypertension, asthma, musculoskeletal conditions, genitourinary illnesses, psychiatric conditions and neurological illnesses.
+
+Injuries form a separate category because they have different patterns of hospitalisation across age groups.
+
+Other diseases include additional conditions, including illnesses associated with older age.
+
+The paper specifically examined fever, diarrhoea, tuberculosis, cancer, heart diseases, hypertension, diabetes and injuries.
+
+5. HOSPITALISATION RATE IN INDIA
+
+The overall hospitalisation rate increased from 1,661 per 100,000 population in 1995 to 3,699 per 100,000 population in 2014.
+
+This represents more than a twofold increase during the study period. Hospitalisation rates increased across all age groups, although the extent of change differed by age and disease category.
+
+Infants and older adults had relatively high hospitalisation rates. The rate was lowest among children aged 5–9 years and increased considerably among people aged over 40 years.
+
+By the age of 80 years and above, the hospitalisation rate was substantially higher than the rate for the overall population.
+
+6. AGE AND HOSPITALISATION
+
+Age was an important factor associated with hospitalisation.
+
+Children were more frequently hospitalised for communicable diseases than older adults. In contrast, non-communicable diseases were the leading cause of hospitalisation among people aged 40 years and above.
+
+The study considered 11 age groups: below one year, 1–4 years, 5–9 years, 10–19 years, 20–29 years, 30–39 years, 40–49 years, 50–59 years, 60–69 years, 70–79 years, and 80 years and above.
+
+Hospitalisation due to non-communicable diseases increased with age. The findings also showed that disease-related hospitalisation was becoming more important among working-age adults.
+
+7. COMMUNICABLE AND NON-COMMUNICABLE DISEASES
+
+Between 1995 and 2014, the hospitalisation rate for communicable diseases increased from 958 to 1,412 per 100,000 population.
+
+During the same period, the hospitalisation rate for non-communicable diseases increased from 482 to 1,142 per 100,000 population.
+
+The increase in non-communicable diseases was greater in percentage terms. By 2014, non-communicable diseases were a major cause of hospitalisation, particularly among older adults.
+
+The findings indicate a change in India's disease pattern, with non-communicable diseases becoming increasingly important alongside communicable diseases.
+
+8. FEVER, DIARRHOEA AND TUBERCULOSIS
+
+The study examined three specific conditions: fever, diarrhoea and tuberculosis.
+
+Hospitalisation for fever increased between 1995 and 2014. The reported rate for all ages increased from 208 to 659 per 100,000 population.
+
+Hospitalisation for diarrhoea decreased from 159 to 124 per 100,000 population. The decline occurred across several age groups, although children below five years showed different patterns.
+
+Hospitalisation for tuberculosis increased modestly, from 41 to 50 per 100,000 population for all ages.
+
+These figures describe historical population-level hospitalisation patterns. They do not predict whether a particular person will develop a disease.
+
+9. HEART DISEASES, HYPERTENSION, DIABETES AND CANCER
+
+The study examined four major non-communicable diseases: heart diseases, hypertension, diabetes and cancer.
+
+For all ages, the hospitalisation rate for heart diseases increased from 78 in 1995 to 295 in 2014 per 100,000 population.
+
+For hypertension, the rate increased from 32 to 110 per 100,000 population.
+
+For diabetes, the rate increased from 17 to 73 per 100,000 population.
+
+For cancer, the rate increased from 28 to 87 per 100,000 population.
+
+Hospitalisation for these diseases generally increased with age. The results highlight the growing importance of non-communicable diseases in healthcare planning.
+
+10. COSTS OF HOSPITALISATION
+
+The average cost per hospitalisation increased from US$177 in 1995 to US$316 in 2014, measured at 2014 prices. This represented an increase of approximately 79%.
+
+In 2014, the average cost per hospitalisation for non-communicable diseases was US$471, compared with US$175 for communicable diseases.
+
+Among the specific diseases examined, cancer had the highest reported cost per hospitalisation at US$942, followed by heart diseases at US$674.
+
+The study also reported high costs associated with injuries. These findings show that healthcare costs differed considerably according to disease category.
+
+11. PUBLIC AND PRIVATE HOSPITAL COSTS
+
+The study compared hospitalisation costs in public and private healthcare facilities.
+
+In general, costs per hospitalisation were higher in private facilities than in public facilities.
+
+For example, in 2014, the reported cost per hospitalisation for cancer was US$466 in public facilities and US$1,257 in private facilities.
+
+For heart diseases, the corresponding costs were US$247 in public facilities and US$913 in private facilities.
+
+The study found that differences between public and private healthcare expenses were important when examining the financial burden on households.
+
+These values represent the study's historical cost estimates, not current hospital quotations.
+
+12. SOCIOECONOMIC FACTORS
+
+The researchers examined age, sex, place of residence, education and monthly per capita consumption expenditure.
+
+The findings showed that these factors were associated with hospitalisation patterns, although the relationships differed across disease categories.
+
+Urban residents were more likely than rural residents to be hospitalised for non-communicable diseases in the study's adjusted analysis.
+
+Age was also an important predictor of hospitalisation for communicable and non-communicable diseases.
+
+These findings help explain why healthcare utilisation may vary across different population groups.
+
+13. INCREASE IN HEALTHCARE COSTS
+
+The study used decomposition analysis to understand why unconditional costs per hospitalisation increased between 1995 and 2014.
+
+The results attributed approximately 58.8% of the increase to changes in mean hospital costs and 41.2% to changes in hospitalisation rates.
+
+This suggests that both higher hospital costs and changes in hospitalisation patterns contributed to the overall increase.
+
+Understanding these factors can support healthcare planning, resource allocation and discussions about household healthcare expenditure.
+
+14. KEY FINDINGS
+
+The overall hospitalisation rate increased from 1,661 to 3,699 per 100,000 population between 1995 and 2014.
+
+The average cost per hospitalisation increased from US$177 to US$316.
+
+Non-communicable diseases became increasingly important, particularly among older adults.
+
+Cancer and heart diseases had high reported costs per hospitalisation in 2014.
+
+Private healthcare facilities generally had higher costs than public facilities.
+
+The study found that increasing mean hospital costs and increasing hospitalisation rates both contributed to rising healthcare expenditure.
+
+15. LIMITATIONS OF THE STUDY
+
+The study analysed hospitalisation and associated costs during a defined historical period. Its results should not automatically be applied to present-day healthcare costs.
+
+The authors noted that the analysis focused on hospitalisation costs and therefore did not capture the complete financial burden of healthcare on households.
+
+The findings describe population-level patterns and associations. They should not be used to diagnose individuals or estimate the treatment cost of a particular patient without additional information.
+
+16. CONCLUSION
+
+The research demonstrates that hospitalisation rates and associated healthcare costs in India increased substantially between 1995 and 2014.
+
+The disease pattern differed by age. Communicable diseases were important among children, while non-communicable diseases were increasingly important among older adults.
+
+Hospitalisation costs varied by disease and healthcare facility. Both changes in mean hospital costs and changes in hospitalisation rates contributed to the rise in overall costs.
+
+The findings highlight the importance of understanding disease patterns, hospitalisation trends and healthcare expenditure when planning healthcare services in India.
+
+SOURCE NOTE
+
+This document is a summary of the research paper by Anshul Kastor and Sanjay K. Mohanty, published in BMJ Open in 2018, titled "Disease and age pattern of hospitalisation and associated costs in India: 1995–2014."
+
+The information describes historical research findings. It is not individual medical advice, a diagnosis, or a current hospital price list.
